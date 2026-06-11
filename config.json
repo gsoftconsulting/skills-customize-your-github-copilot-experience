@@ -91,6 +91,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sql-foundations-ms-sql",
+      "title": "SQL Foundations with Microsoft SQL Server",
+      "description": "Beginner SQL practice with SELECT, WHERE, ORDER BY, JOIN, and GROUP BY using school data.",
+      "path": "assignments/sql-foundations-ms-sql",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter SQL Script",
+          "file": "starter-code.sql",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
